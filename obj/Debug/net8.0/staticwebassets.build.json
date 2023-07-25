@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4Hfhe5aIaDtORHvpIJgqkerD01BcSMIasdGpJSs1yjs=",
+  "Source": "MinimalAPI.Security",
+  "BasePath": "_content/MinimalAPI.Security",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
